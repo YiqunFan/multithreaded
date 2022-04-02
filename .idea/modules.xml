@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/00Introduction/00Introduction.iml" filepath="$PROJECT_DIR$/00Introduction/00Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/01SingleThreadedExecution/01SingleThreadedExecution.iml" filepath="$PROJECT_DIR$/01SingleThreadedExecution/01SingleThreadedExecution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02Immutable/02Immutable.iml" filepath="$PROJECT_DIR$/02Immutable/02Immutable.iml" />
     </modules>
   </component>
 </project>
